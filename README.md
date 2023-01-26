@@ -11,7 +11,7 @@
     <header>
         <div class="header-container">
             <h1 class="logo">
-                <a href="https://elementhome.github.io/index.html">CS/ECE 570 <br>Final Project</a>
+                <a href="">CS/ECE 570 <br>Final Project</a>
             </h1>
             <h3 class="tagline">Winter 2023 — Oregon State University</h3>
         </div>
